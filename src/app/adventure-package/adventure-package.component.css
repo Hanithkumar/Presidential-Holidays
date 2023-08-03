@@ -1,0 +1,175 @@
+/* EXPLORE HEAD */
+.explore{
+    text-align: center;
+    margin-top: 60px;
+    
+}
+.explorehead1{
+    color: white;
+    font-size: 60px;
+    
+}
+.explorehead2{
+    color: rgb(192, 192, 49);
+    font-size: 60px;
+    margin-top: -20px;   
+}
+
+/* CARDS */
+.adventurecards{
+    margin-top: 80px;
+}
+
+
+
+
+
+/* SAMSUNG GALAXY S20 */
+@media (min-width: 300px) and (max-width:400px) {
+
+.logo{
+    width: 20%;
+    margin-left: 20px;
+}
+
+/* EXPLORE HEAD */
+.explore{
+    text-align: center;
+    margin-top: 20px !important;
+    
+}
+.explorehead1{
+    color: white;
+    font-size: 20px;
+    
+}
+.explorehead2{
+    color: rgb(192, 192, 49);
+    font-size: 20px;
+    margin-top: 5px;   
+}
+
+/* CARDS */
+.adventurecards{
+    margin-top: 0px;
+}
+}
+
+/* SAMSUNG GALAXY S20 LANDSCAPE */
+@media (min-width: 800px) and (max-width: 1000px) and (orientation: landscape){
+    .explorehead1 {
+        color: white;
+        font-size: 25px;
+    }
+    .explorehead2 {
+        color: rgb(192, 192, 49);
+        font-size: 25px;
+        margin-top: -11px;
+    }
+}
+
+
+
+
+/* IPHONE XR */
+@media (min-width: 400px) and (max-width:600px) {
+
+    .logo{
+        width: 20%;
+        margin-left: 20px;
+    }
+    
+    /* EXPLORE HEAD */
+    .explore{
+        text-align: center;
+        margin-top: 20px !important;
+        
+    }
+    .explorehead1{
+        color: white;
+        font-size: 20px;
+        
+    }
+    .explorehead2{
+        color: rgb(192, 192, 49);
+        font-size: 20px;
+        margin-top: 5px;   
+    }
+    
+    /* CARDS */
+    .adventurecards{
+        margin-top: 0px;
+    }
+    }
+
+/* IPHONE LANDSCAPE */
+@media (min-width:800px) and (max-width:1200px) and (orientation: landscape){
+    /* EXPLORE HEAD */
+    .explore{
+        margin-top: 30px;
+    }
+    
+    .explorehead1{
+        color: white;
+        font-size: 20px;
+        
+    }
+    .explorehead2{
+        color: rgb(192, 192, 49);
+        font-size: 20px;
+        margin-top: 0px;   
+    }
+}
+
+
+
+
+
+/* TABLET */
+@media (min-width:750px) and (max-width:1150px){
+    /* EXPLORE HEAD */
+    .explore{
+        text-align: center;
+        margin-top: 60px;
+        
+    }
+    .explorehead1{
+        color: white;
+        font-size: 25px;
+        
+    }
+    .explorehead2{
+        color: rgb(192, 192, 49);
+        font-size: 25px;
+        margin-top: -8px;   
+    }
+}
+
+
+/* TABLET LANDSCAPE*/
+@media (min-width: 1020px) and (max-width: 1350px) and (orientation: landscape){
+
+    /* EXPLORE HEAD */
+    .explore{
+        text-align: center;
+        margin-top: 60px;
+        
+    }
+    .explorehead1{
+        color: white;
+        font-size: 25px;
+        
+    }
+    .explorehead2{
+        color: rgb(192, 192, 49);
+        font-size: 25px;
+        margin-top: -8px;   
+    }
+
+    /* FOOTER */
+    .footimg {
+        width: 68%;
+        margin-left: -39px;
+        margin-top: -26px;
+    }
+}

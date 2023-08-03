@@ -1,0 +1,409 @@
+/* CONTACT FORM */
+.totalconnect{
+    margin-top: 30px;
+
+}
+.contactplusholder{
+    background-color: rgb(47, 38, 38);
+}
+
+.contactholder1{
+    padding-right: 250px;
+    margin-top: 40px;
+}
+.contactholder2{
+    padding-right: 250px;
+    margin-top: 40px;
+}
+.contactholder3{
+    padding-right: 250px;
+    margin-top: 40px;
+    
+}
+.connecthead{
+    margin-left: 40px;
+    color: rgb(192, 192, 49);
+    font-size: 50px;
+}
+.connectpara{
+    color: rgb(192, 192, 49);
+    margin-left: 40px;
+    font-size: 20px;
+}
+
+/* CONNECT LOCATION */
+.connectlocation{
+    margin-left: 40px;
+}
+
+/* FOOTER */
+.footer{
+    background-color: black;
+    padding-top: 40px;
+    margin-top: 150px;
+}
+
+li{
+    list-style: none;
+    
+}
+
+.footimg{
+    width: 70%;
+    padding-left: 60px;
+}
+.footpara{
+    color: white;
+    font-size: 25px;
+}
+
+
+
+
+
+/* SAMSUNG GALAXY S20  */
+@media (min-width:300px) and (max-width:400px){
+
+    .logo{
+        width: 20%;
+        margin-left: 20px;
+    }
+
+    /* PLACE HOLDER */
+    .contactholder1{
+        padding-right: 50px;
+    }
+    .contactholder2{
+        padding-right: 50px;
+    }
+    .contactholder3{
+        padding-right: 50px;
+    }
+
+    /* ADDRESS */
+    .connecthead{
+        margin-top: 20px;
+        font-size: 20px;
+    }
+    .connectpara{
+        font-size: 15px;
+    }
+
+    /* FOOTER */
+    .footer{
+        margin-top: 60px;
+    }
+    
+    
+    .footimg{
+        width: 42%;
+        margin-left: 74px;
+        margin-top: -38px;
+    }
+    .footpara{
+        font-size: 15px;
+        margin-bottom: 0px;
+    }
+    
+    
+    
+    /* Foot header */
+    .xyz{
+        color: rgb(192, 192, 49);
+        padding-top: 25px;
+        text-align: center;
+        font-size: 20px;
+        margin-bottom: 0px;
+    }
+    .xyzz{
+        color: rgb(192, 192, 49);
+        padding-top: 9px;
+        text-align: center;
+        font-size: 20px;
+        margin-bottom: 0px;
+
+    }
+    
+    /* li Home, About... */
+    .footlink{
+        text-decoration: none !important;
+        color: rgb(255, 255, 255) !important;
+        font-size: 15px;
+        text-align: center;
+        padding-top: 5px;
+        padding-right: 25px;
+    }
+    
+    .footlinks{
+        text-decoration: none !important;
+        color: rgb(255, 255, 255) !important;
+        font-size: 15px;
+        text-align: center;
+        padding-top: 5px;
+    }
+    
+    .footicon{
+        font-size: 22px;
+        padding-top: 10px;
+        margin-left: 98px;
+    }
+
+    .location{
+        margin-left: 85px;
+        margin-top: -52px;
+        margin-bottom: 20px;
+    }
+}
+
+/* SAMSUNG GALAXY S20 LANDSCAPE */
+@media (min-width: 800px) and (max-width: 1000px) and (orientation: landscape){
+    .explorehead1 {
+        color: white;
+        font-size: 25px;
+    }
+    .explorehead2 {
+        color: rgb(192, 192, 49);
+        font-size: 25px;
+        margin-top: -11px;
+    }
+    .footimg {
+        width: 83%;
+        margin-left: -24px;
+        margin-top: -33px;
+    }
+    .footpara {
+        color: white;
+        font-size: 16px;
+    }
+    .xyz {
+        color: rgb(192, 192, 49);
+        margin-top: -76px;
+        text-align: center;
+        font-size: 25px !important;
+    }
+    .xyzz{
+        color: rgb(192, 192, 49);
+        margin-top: -17px;
+        text-align: left;
+        font-size: 25px !important;
+    }
+    .footlink {
+        text-decoration: none !important;
+        color: rgb(255, 255, 255) !important;
+        font-size: 17px;
+        text-align: center;
+        padding-top: 13px;
+        padding-right: 25px;
+    }
+
+    .footlinks {
+        text-decoration: none !important;
+        color: rgb(255, 255, 255) !important;
+        font-size: 9px !important;
+        text-align: left;
+        padding-top: 12px;
+        padding-left: 0px;
+    }
+    .footicon {
+        font-size: 22px;
+        margin-top: -73px;
+    }
+    .location {
+        padding-top: 24px;
+    }
+
+
+}
+
+
+
+/* IPHONE XR */
+@media (min-width:400px) and (max-width:600px){
+
+    .logo{
+        width: 20%;
+        margin-left: 20px;
+    }
+
+    /* PLACE HOLDER */
+    .contactholder1{
+        padding-right: 50px;
+    }
+    .contactholder2{
+        padding-right: 50px;
+    }
+    .contactholder3{
+        padding-right: 50px;
+    }
+
+    /* ADDRESS */
+    .connecthead{
+        margin-top: 20px;
+        font-size: 20px;
+    }
+    .connectpara{
+        font-size: 15px;
+    }
+
+    /* FOOTER */
+    .footer{
+        margin-top: 60px;
+    }
+    
+    
+    .footimg{
+        width: 56%;
+        padding-left: 94px;
+        margin-top: -38px;
+        margin-left: 24px;
+    }
+    .footpara{
+        font-size: 15px;
+        margin-bottom: 0px;
+    }
+    
+    
+    
+    /* Foot header */
+    .xyz{
+        color: rgb(192, 192, 49);
+        padding-top: 25px;
+        text-align: center;
+        font-size: 20px;
+        margin-bottom: 0px;
+    }
+    
+    /* li Home, About... */
+    .footlink{
+        text-decoration: none !important;
+        color: rgb(255, 255, 255) !important;
+        font-size: 15px;
+        text-align: center;
+        padding-top: 5px;
+        padding-right: 25px;
+    }
+    
+    .footlinks{
+        text-decoration: none !important;
+        color: rgb(255, 255, 255) !important;
+        font-size: 15px;
+        text-align: center;
+        padding-top: 5px;
+    }
+    
+    .footicon{
+        font-size: 20px;
+        padding-top: 10px;
+        margin-left: 104px;
+    }
+
+    .location{
+        margin-left: 87px;
+        margin-top: -49px;
+    }
+}
+
+
+
+/* TABLET */
+@media (min-width:750px) and (max-width:1150px){
+    /* FOOTER */
+.footimg {
+    width: 96%;
+    margin-left: -39px;
+    margin-top: -26px;
+}
+.footpara {
+    color: white;
+    font-size: 20px;
+}
+
+.xyz {
+    color: rgb(192, 192, 49);
+    margin-top: -58px;
+    text-align: center;
+    font-size: 25px;
+}
+.xyzz {
+    color: rgb(192, 192, 49);
+    margin-top: 0px;
+    text-align: left;
+    font-size: 25px;
+}
+.footlink {
+    text-decoration: none !important;
+    color: rgb(255, 255, 255) !important;
+    font-size: 20px;
+    text-align: left;
+    padding-top: 21px;
+    padding-right: 25px;
+}
+.footlinks {
+    text-decoration: none !important;
+    color: rgb(255, 255, 255) !important;
+    font-size: 23px;
+    text-align: left;
+    margin-top: -31px;
+    padding-left: 0px;
+}
+.footicon{
+    font-size: 22px;
+    padding-top: 6px;
+}
+
+.location{
+    padding-top: 34px;
+}
+}
+
+/* TABLET LANDSCAPE*/
+@media (min-width: 1020px) and (max-width: 1350px) and (orientation: landscape){
+     /* FOOTER */
+.footimg {
+    width: 68%;
+    margin-left: -39px;
+    margin-top: -26px;
+}
+.footpara {
+    color: white;
+    font-size: 20px;
+}
+
+.xyz {
+    color: rgb(192, 192, 49);
+    margin-top: -58px;
+    text-align: center;
+    font-size: 25px;
+}
+.xyzz {
+    color: rgb(192, 192, 49);
+    margin-top: 0px;
+    text-align: left;
+    font-size: 25px;
+}
+.footlink {
+    text-decoration: none !important;
+    color: rgb(255, 255, 255) !important;
+    font-size: 20px;
+    text-align: left;
+    padding-top: 21px;
+    padding-right: 25px;
+}
+.footlinks {
+    text-decoration: none !important;
+    color: rgb(255, 255, 255) !important;
+    font-size: 23px;
+    text-align: left;
+    margin-top: -31px;
+    padding-left: 0px;
+}
+.footicon{
+    font-size: 22px;
+    padding-top: 6px;
+}
+
+.location{
+    padding-top: 34px;
+}
+
+}
